@@ -2,9 +2,9 @@
 # Đề tài: Website bán hàng trực tuyến
 <h3>Link demo: https://taphoashop.herokuapp.com/</h3>
 <h3>Thành viên nhóm: </h3>
-<h6>+ Võ Hữu Thắng</h6>
-<h6>+ Nguyễn Văn Hải Long</h6>
-<h6>+ Nguyễn Quốc Thắng</h6>
+<h6>+ Pham Gia Huy</h6>
+<h6>+ Nguyễn Hữu Toàn</h6>
+<h6>+ Lê Anh Hưng</h6>
 
 ![screenshot](https://github.com/huuthang28cb/Nhom3_IVS_ThucTapChuyenNganh/blob/master/frontend/public/images/home.PNG)
 
