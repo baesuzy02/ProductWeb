@@ -1,9 +1,9 @@
 # Nhóm 3
 # Đề tài: Website bán hàng trực tuyến
-<h3>Link demo: https://taphoashop.herokuapp.com/</h3>
 
 
-![screenshot](https://github.com/huuthang28cb/Nhom3_IVS_ThucTapChuyenNganh/blob/master/frontend/public/images/home.PNG)
+
+
 
 ## Hướng phát triển trong tương lai:
 -	Áp dụng công nghệ như AI, Machine Learning để gợi ý sản phẩm cho khách hàng
