@@ -1,4 +1,4 @@
-# Nhóm 2
+
 # Đề tài: Website bán hàng trực tuyến
 
 
